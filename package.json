@@ -1,12 +1,12 @@
 {
   "name": "postaway",
   "version": "1.0.0",
-  "description": "Coding Ninjas Mini Project",
+  "description": "Mini Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shouvik Bajpayee",
+  "author": "jitendra kumar",
   "license": "ISC",
   "type": "module",
   "dependencies": {
