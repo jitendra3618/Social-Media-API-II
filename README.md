@@ -32,7 +32,7 @@ Postaway is a social media platform API built using Express.js, designed to enab
         - **JWT_SECRET**=your_jwt_secret_key_here
 
 4. Start the server:
-    **npm start**
+    **node index**
 
 ## API Endpoints
 
@@ -72,6 +72,8 @@ Postaway is a social media platform API built using Express.js, designed to enab
 - Multer
 - Morgan
 - Helmet
+- Nodejs
+- javascript
 
 ## Contributing
 
